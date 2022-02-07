@@ -1,6 +1,6 @@
 # StereoVision
-A gathering platform for all traditional stereo matching vision
-This is the assignment page currently for Okutomi Sensei's Computer Vision Class.   
+## A gathering platform for all traditional stereo matching vision
+## This is the assignment page currently for Okutomi Sensei's Computer Vision Class. Tokyo institude of Tech   
 
 In this repo:  
 there are :  
